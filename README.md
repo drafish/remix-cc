@@ -9,7 +9,7 @@ Remix 项目是一个丰富的工具集，可用于任何知识水平的用户�
 #### 自媒体
 - [Twitter](https://twitter.com/EthereumRemix)：更新 Remix 项目的动态
 - [YouTube](https://www.youtube.com/channel/UCjTUPyFEr2xDGN6Cg8nKDaA)：都是些两三分钟的短视频。每个视频会介绍 Remix IDE 上的一个小功能点。
-- [Medium](https://medium.com/remix-ide)：Remix 团队的博客。大概每个月会更新一篇。
+- [Medium](https://medium.com/remix-ide)：Remix 团队的博客，大概每个月会更新一篇。
 
 
 #### 交流群
