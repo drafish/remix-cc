@@ -81,22 +81,6 @@ What is the specific problems, research questions, or needs you are trying to ad
 
 2. Remix 官方的教学视频都是英文，对中文用户不友好
 
-**VSCode 插件**
-
-1. Remix 官方的 desktop 和 vscode 插件用户体验都不好。官方并不打算在 vscode 上花太多时间，而是把更多的精力投入到 remix desktop 上。
-
-2. 如果我们能用 vscode 插件实现 remix 的所有功能，那桌面端的智能合约开发体验会有很大提升
-
-3. VSCode 也有 web 版，只要解决 desktop 和 web 版插件的差异性问题，那桌面端的开发体验可以覆盖的 web 端。
-
-4. VSCode 可以集成云端开发环境，这个功能是 remix 目前还没有做的。
-
-**WebContainer**
-
-1. webcontainer 可以在浏览器上运行 nodejs ，这样就有可能在 Remix Online IDE 中为用户提供 truffle、hardhat、ganache 等需要 nodejs 才能运行的开发工具。
-
-2. chain ide 和 black ide 都有云端开发环境可以运行 nodejs 。remix 集成 webcontainer 以后可以弥补这个缺陷。而且技术实现完全是去中心化的，不依赖中心化的服务端，运维的成本很低。
-
 ## Why is your project important?
 
 How do you know people need what you're making? Why is this project important for your target demographic/problem area?
@@ -129,14 +113,12 @@ Give us an itemized breakdown of how you'll be using the requested funds. Provid
 
 | 任务名称     | 任务描述                                                     | 交付物                    | 工时 | 周期      | 预算  |
 | ------------ | ------------------------------------------------------------ | ------------------------- | ---- | --------- | ----- |
-| 镜像站       | 1. 部署与维护国内镜像站，包括 IDE、文档、官网、Solidity js 编译器、IPFS 节点<br/>2. 维护国内镜像站的 github 仓库与文档 | 镜像站 + github repo      | 40H  | 7月 ~ 9月 | 880U  |
+| 镜像站       | 1. 部署与维护国内镜像站，包括 IDE、文档、官网、Solidity js 编译器<br/>2. 维护国内镜像站的 github 仓库与文档 | 镜像站 + github repo      | 40H  | 7月 ~ 9月 | 880U  |
 | 国际化       | 1. 将 remix ide 上所有字符串替换成 i18n 组件<br/>2. 为 remix 官网开发国际化功能，并且将上面的所有字符串替换成 i18n 组件 | PR                        | 120H | 7月 ~ 9月 | 2640U |
 | 提 PR        | 1. 针对中文社区发现的 bug 和功能缺陷，给 remix 提 PR<br/>2. 参加金伯组织的以太坊技术研讨会分享 PR，谁提的 PR 谁来分享 | PR + 技术分享视频         | 120H | 7月 ~ 9月 | 2640U |
 | 自媒体       | 1. 翻译 remix 官方的自媒体内容，并同步到国内的自媒体         | 微信公众号+今日头条       | 24H  | 7月 ~ 9月 | 528U  |
 | 交流群       | 1. 组建 remix 中文用户的微信群和 tg 群<br/>2. 解答中文用户在群里提出的一些问题 | 微信群+tg群               | 24H  | 7月 ~ 9月 | 528U  |
 | 教学视频     | 1. 每月产出 2 个教学视频                                     | 6 个教学视频              | 48H  | 7月 ~ 9月 | 1056U |
-| VSCode 插件  | 1. 调研用 vscode 插件实现 remix 所有功能的可行性<br/>2. 对可以实现的功能要产出一个 demo<br/>3. 无法实现的功能要产出一份文档，说明为什么无法实现 | github repo (demo + 文档) | 160H | 7月 ~ 9月 | 3520U |
-| WebContainer | 1. 调研 remix 集成 webcontainer 的可行性<br/>2. 如果可行的话要产出一个 demo<br/>3. 不可行的话要产出一份文档，说明为什么不可行 | github repo (demo 或文档) | 120H | 7月 ~ 9月 | 2640U |
 
 ## Is your project a public good?
 
