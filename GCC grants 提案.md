@@ -103,7 +103,7 @@ What other solutions are being worked on, and what alternatives do people curren
 
 Ex: EUR 10,000.
 
-14,432 U
+8,272 U
 
 
 
