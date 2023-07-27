@@ -6,4 +6,4 @@
 - [Projects](https://github.com/PlanckerLabs/remix-cc/projects?type=classic): 参考 Remix 官方制定的发版计划
 - [Weekly Meeting](https://github.com/PlanckerLabs/remix-cc/issues?q=label%3Aweekly-meeting+): 每周周会记录
 - [Remix Meeting](https://github.com/PlanckerLabs/remix-cc/issues?q=label%3Aremix-meeting+): 每周和 Remix 官方的会议记录
-
+- [GCC提案](https://github.com/PlanckerLabs/remix-cc/wiki/GCC%E6%8F%90%E6%A1%88): 向 GCC 申请 grants 的提案
