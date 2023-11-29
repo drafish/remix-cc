@@ -9,6 +9,5 @@
 - [GCC提案](https://github.com/PlanckerLabs/remix-cc/wiki/GCC%E6%8F%90%E6%A1%88): 向 GCC 申请 grants 的提案
 
 ## 中文镜像站
-- Remix 官网: https://remix-project.cn/
-- Remix IDE: https://ide.remix-project.cn/
-- Remix 文档: https://docs.remix-project.cn/
+- Remix IDE: https://remix.learnblockchain.cn/
+- Remix 文档: https://remix-docs.learnblockchain.cn/
